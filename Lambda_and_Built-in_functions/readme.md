@@ -1,4 +1,4 @@
-# Python Fonksiyonları ve Kullanımları  
+# Python Lambda ve Built-in Fonksiyonları ve Kullanımları  
 
 Bu proje, Python'da kullanılan çeşitli fonksiyonlar, lambda fonksiyonları, map, filter, sorted gibi fonksiyonlar ve kullanım alanları ile ilgili örnekler içermektedir. Kodlar farklı dosyalarda kategorize edilmiş ve her dosyada ilgili fonksiyonun detaylı bir açıklaması yapılmıştır.
 
