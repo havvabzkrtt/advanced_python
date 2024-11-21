@@ -1,4 +1,4 @@
-# Python'da List Comprehensions**
+# **Python'da List Comprehensions**
 
 Bu depo, Python'da **List Comprehensions** kullanımını çeşitli örnekler ve uygulamalarla göstermektedir. List Comprehensions, döngü ve koşullu ifadeleri tek satırda birleştirerek liste oluşturmayı kolaylaştıran bir yöntemdir.
 
