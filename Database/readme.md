@@ -27,7 +27,7 @@ https://dev.mysql.com/downloads/
 - herhangi bir değişiklik yapılmıyor. port = 3306
 
 ![alt text](mysql_install5.png)
-- Root parolası girilmeli ve unutulamalı. Arayüze bu şifre ile giriş yapılır. (havvabzkrt41)
+- Root parolası girilmeli ve unutulamalı. Arayüze bu şifre ile giriş yapılır.
 
 ![alt text](mysql_arayüz.png)
 - İlk açılna arayüz.
@@ -91,7 +91,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost",      # Localhost veya uzak sunucu adresi
     user="root",           # Kullanıcı adı
-    password="havvabzkrt41",  # Kullanıcı şifresi
+    password="....",  # Kullanıcı şifresi
     database="shopdb"      # Bağlanmak istenen veritabanı
 )
 
