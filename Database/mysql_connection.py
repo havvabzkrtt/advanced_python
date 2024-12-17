@@ -3,7 +3,7 @@ import mysql.connector
 db = mysql.connector.connect(
     host = "localhost",  # şuanda local ir server, uzak bir serverde mysql hizmeti alınıyorsa o severın adresi girilmeli
     user = "root",
-    password = "havvabzkrt41",  # root şifresi
+    password = "...",  # root şifresi
     database = "shopdb"  # serverdaki istenilen database bağlanılır
 )
 
