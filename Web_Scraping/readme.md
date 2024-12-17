@@ -2,7 +2,7 @@
 
 Web scraping, web sayfalarından veri toplama işlemi için kullanılan bir tekniktir. Eğer bir web servisi, ihtiyacımız olan bilgileri doğrudan sunmuyorsa, bu yöntemle gerekli veriler elde edilebilir.
 
-![alt text](web_scraping.png)
+![alt text](web_scraping.PNG)
 
 ## BeautifulSoup Kütüphanesi
 
@@ -13,7 +13,7 @@ Kurulum:
 pip install beautifulsoup4
 ```
 
-![alt text](beautiful_soup.png)
+![alt text](beautiful_soup.PNG)
 
 ## Web Scraping Temel Konseptleri
 
