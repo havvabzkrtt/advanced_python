@@ -2,7 +2,7 @@
 
 CSV üzerinden veri çekilmesi gerektiğinde, csv dosyası direkt belleğe alınıp bellek üzerinden dosya içeriği filtrelenmeli. 50 100 kayıt için bu sorun değil fakat daha fazla kayıt olması bellek üzerinde gereksiz yer kaplanmasına neden olur. Bundan dolayı veri tabanı kullanılır. 
 
-![alt text](veri_tabanı.png)
+![alt text](veri_tabanı.PNG)
 
 ### MySQL Kurulumu 
 https://dev.mysql.com/downloads/
