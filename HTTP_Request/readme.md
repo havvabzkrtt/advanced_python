@@ -24,7 +24,7 @@ Bu döküman, Python'da HTTP Request yöntemlerini ve web servisleri kullanarak 
 ### **Server (Sunucu)**
 - Sunucu, istemciden gelen talepleri işler ve bir yanıt (HTTP Response) döndürür.
 
-![Client-Server İlişkisi](client_server.png)
+![Client-Server İlişkisi](client_server.PNG)
 
 ---
 
@@ -42,7 +42,7 @@ Bu döküman, Python'da HTTP Request yöntemlerini ve web servisleri kullanarak 
 - GET metodu veri güncellemesi yapmaz; yalnızca bilgi talep eder.
 - Örneğin bütün kursları içeren bir web sayafasında sadece pyton kursları talep edilmesi.
 
-![HTTP GET Metodu](http_get.png)
+![HTTP GET Metodu](http_get.PNG)
 
 - Örnek:
   ```python
@@ -55,7 +55,7 @@ Bu döküman, Python'da HTTP Request yöntemlerini ve web servisleri kullanarak 
 - Sunucuya veri göndermek ve işlemler yapmak için kullanılır. Örneğin: yeni bir kayıt eklemek.
 - Gönderilen veriler, talebin **body** kısmında paketlenerek yer alır. Server kısmında bu bilgilerle bir ekleme, güncellem, silme gibi işlemler yapılır. İşte buna http post denir. 
 
-![HTTP POST Metodu](http_post.png)
+![HTTP POST Metodu](http_post.PNG)
 
 - Örnek:
   ```python
@@ -77,7 +77,7 @@ Bu döküman, Python'da HTTP Request yöntemlerini ve web servisleri kullanarak 
 - Query string, URL'nin sonuna eklenen **key-value** çiftlerinden oluşur.
 - Parametreler, sunucunun döndüreceği veriyi filtrelemek için kullanılır.
 
-![Query String Parametreleri](querystring.png)
+![Query String Parametreleri](querystring.PNG)
 
 ### **Örnekler**
 - **https://jsonplaceholder.typicode.com/todos?userId=1**  
@@ -111,7 +111,7 @@ Bu döküman, Python'da HTTP Request yöntemlerini ve web servisleri kullanarak 
   print("Sıcaklık:", data["current"]["temp_c"], "°C")
   ```
 
-![Response Body Örneği](response_body.png)
+![Response Body Örneği](response_body.PNG)
 
 - Gönderilebilecek parametrelerin tam listesini görmek için [Weather API Dokümantasyonu](https://www.weatherapi.com/docs/) sayfasını inceleyebilirsiniz.
 
