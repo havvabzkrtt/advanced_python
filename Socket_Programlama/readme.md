@@ -19,7 +19,7 @@
 
 İnternet ağına bağlı olan cihaza verilen benzersiz bir kimliktir. 
 
-![alt text](public_local_IP.png)
+![alt text](public_local_IP.PNG)
 
 - Modemin aldığı tek bir IP adresi vardır. Bu IP adresine **public IP adresi** denir. (internet ortamında)
 
