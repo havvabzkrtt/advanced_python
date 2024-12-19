@@ -31,10 +31,7 @@
 
 Bu komutları cmd ortamında çalıştırdığımızda bigisayarın IP bilgisine ulaşılır.
 
-![alt text](IP_ornek.PNG)
-![alt text](IP_ornek.PNG)
 
-- 
 ### Port Adresi
 
 - Bir IP adresine sahip bir bilgisayardaki servis ya da uygulamalar iletişim için farklı port numaraları kullanılırlar. 
