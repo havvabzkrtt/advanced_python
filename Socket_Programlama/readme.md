@@ -32,6 +32,7 @@
 Bu komutları cmd ortamında çalıştırdığımızda bigisayarın IP bilgisine ulaşılır.
 
 ![alt text](IP_ornek.PNG)
+![alt text](IP_ornek.PNG)
 
 - 
 ### Port Adresi
